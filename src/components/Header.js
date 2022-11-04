@@ -16,7 +16,7 @@ function Header() {
   // }
 
   //let classString = condition ? expresssionIfTrue : expresssionIfFalse;
-  let classString = counter >= 10 ? "highlighted" : ""; //with a ternary operator
+  let classString = counter >= 10 ? "highlighted" : ""; //with a ternary operator.
 
   const inlineStyle = {
     color: "purple",
